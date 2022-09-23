@@ -1,6 +1,6 @@
 ---
 title: "Project planning"
-date: 2022-05-17
+date: 2022-09-23
 draft: false
 # weight: 2
 slug: 'project-planning'
@@ -8,20 +8,15 @@ slug: 'project-planning'
 
 # Project planning
 
-Our research cultures won't change by themselves. We have to make it
-happen. Planning our research responsibly now, rather than waiting for
-funders to require environmental statements, means that we are modelling
-the change we want to see in the world.
+This section features recommendations on designing sustainable research projects that are aligned with climate goals. Our research cultures won't change by themselves. We have to make it happen. Responsibly planning our research now, rather than waiting for funders to require environmental statements, means that we are modelling the change we want to see in the world.
 
-## Funding Landscape
+## Funding landscape
 
-Currently this section and the next (Data Management Plans) focuses on
-the UK context. We would like to broaden this. **We invite funders and
-researchers across Europe and globally to contribute their
-perspectives**, to widen the scope of this section (we hope this will be
-one focus of our first toolkit workshop, at DH Benelux in June 2022).
+{{< hint warning >}}
+This section is focused on the UK context. **We invite funders and researchers across Europe and globally to contribute their perspectives**, to widen the scope of this section.
+{{< /hint >}} 
 
-Within the UK context, in mid 2022, our view is that:
+Within the UK context, in late 2022, our view is that:
 
 - The funding landscape is likely to change, and researchers should collaborate proactively with funding bodies to co-produce the next generation of funding allocation mechanisms.
 - In the meanwhile, there is plenty of scope within existing funding application frameworks to propose sustainable research. For example, the Data Management Plan section of UKRI applications can be used to reflect on digital carbon and wider sustainability and justice issues.
@@ -33,12 +28,12 @@ across the sector. The major research funding bodies have signalled that
 decarbonisation, sustainability, and just climate transition are top
 priorities. Use of Information Communications Technology (ICT) is widely
 recognised as [a major source of carbon
-emissions](https://doi.org/10.1016/j.patter.2021.100340).
+emissions](https://doi.org/10.1016/j.patter.2021.100340). Projects such as the [UKRI Net Zero Digital Research Infrastructure Scoping Project](https://net-zero-dri.ceda.ac.uk/) are useful indicators of the current state of play.
 
 We need, urgently, to 'green' our research. However, most of the major
 funders do not yet explicitly ask applicants about the sustainability or
 climate justice dimensions of their projects. The current major UK
-exception is the Wellcome Trust. Funders are exploring how they can
+exception is the [Wellcome Trust](https://wellcome.org/). Funders are exploring how they can
 drive sustainability in research project design; however, revisions to
 application processes take time. This is partly because of justifiable
 concern not to make application processes unnecessarily onerous
@@ -49,6 +44,8 @@ The Digital Humanities Climate Coalition supports the revision of
 funding processes to centre sustainability and climate justice. We also
 argue, however, that existing application frameworks and guidance do
 *implicitly* ask for reflection on sustainability and climate justice.
+
+We recommend that research projects be consciously designed with sustainability and climate justice in mind, and that these considerations should be explicitly included in all funding applications. 
 
 
 ## Data Management Plans {#DMP}
@@ -101,10 +98,7 @@ We recognise that not all researchers will have the knowledge and expertise to d
 decisions. We are also mindful that researchers may wish to "play it safe" and not risk a bid by including climate justice-oriented practice
 that may be new to them. However, the [scientific advice is clear](https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/) that there is an imperative to act immediately.
 
-We hope this short guide will enable researchers to be bold in
-interpreting the DMP guidance, rather than seeing climate
-justice-oriented actions as another box to tick. Climate
-justice-oriented data management practices can be threaded through the research programmes of all researchers applying for UKRI funding. There is nothing stopping us apart from developing our knowledge so we can define the appropriate actions to take.
+We hope these recommendations will enable researchers to be bold in interpreting the DMP guidance, rather than seeing climate justice-oriented actions as another box to tick. Climate justice-oriented data management practices can be threaded through the research programmes of all researchers applying for UKRI funding. There is nothing stopping us apart from developing our knowledge so we can define the appropriate actions to take.
 
 {{< hint warning >}}
 **Suggested DMP Citation:** Researchers who have referred to this guidance in developing a DMP may optionally include wording such as, *"This DMP is aligned with Digital Humanities Climate Coalition's 2022 recommendations on data management and climate justice."*
@@ -113,8 +107,7 @@ justice-oriented data management practices can be threaded through the research 
 ## Should you footprint your project? {#project-footprinting}
 
 {{< hint info >}}
-*"To give just one example, did you know that the very notion of a personal carbon footprint --- a concept that's completely ubiquitous in discussions about personal responsibility --- was first popularized by BP as part of a \$100 million per year marketing campaign between 2004
-and 2006?"*
+*"To give just one example, did you know that the very notion of a personal carbon footprint --- a concept that's completely ubiquitous in discussions about personal responsibility --- was first popularized by BP as part of a \$100 million per year marketing campaign between 2004 and 2006?"*
 
 [Tracing Big Oil's PR war to delay action on climate
 change](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/),
@@ -131,11 +124,37 @@ One useful concept here is Emissions Factors (EF). Put in simple terms, an EF gi
 
 However, definitive EFs are often not available for the type of activities that, as researchers using digital tools, we may want to know about. Thoughtworks's Cloud Carbon Footprint estimates emissions based on data centre billing data in four usage categories: Compute, Storage, Networking and Memory (RAM). It is partly based on Etsy's EFs (called the [Cloud Jewels](https://github.com/etsy/cloud-jewels)).
 
+## Choosing research questions
+
+It is important to adapt our research methods to make them less carbon intensive, and to improve our awareness of our environmental impacts.
+
+But can we also corral our research communities to more directly investigate environmental issues? For example, humans interact with and through Information Communication Technology (ICT) in unpredictable ways; "how ICT changes consumer behavior ... seems to be an underexplored, but essential aspect of the causal mechanisms that have to be understood for predicting the environmental impact of digitalization" [(Bieser and Hilty 2018)](https://www.zotero.org/google-docs/?broken=rtfS4X). A literature review carried out by Freitag et al. (2021) found no strong consensus about the future of ICT carbon footprints, including "disagreement" whether or not
+
+- energy efficiencies in ICT are continuing
+- energy efficiencies in ICT are reducing ICT's carbon footprint
+- ICT's carbon footprint will stabilize due to saturation in ICT
+- data traffic is independent of ICT emissions
+- ICT will enable emissions savings in other industries
+- renewable energy will decarbonize ICT."
+
+Another literature review on remote working only weakly confirmed the 'common sense' view that remote working saves energy; 26 of 39 studies suggest that it does save energy, however "differences in the methodology, scope and assumptions of the different studies make it difficult to estimate 'average' energy savings" [(Hook et al. 2020)](https://www.zotero.org/google-docs/?broken=MVslvg)**.**
+
+More broadly, climate change gives rise to a variety of political, ethical, and philosophical issues. Within the arts and humanities, these have long been the concern of the environmental humanities, and fields like the Digital Humanities have plenty to explore in terms of the cultural construction of technologies (everything from email to Bioenergy Carbon Capture and Storage), and the use and interpretation of data and models.
+
+However, climate research funding has heavily favoured the natural sciences (see figure). "Limiting global warming to 1.5°C will require
+rapid and deep alteration of attitudes, norms, incentives, and politics.
+
+Some of the key climate-change and energy transition puzzles are therefore in the realm of the social sciences" [(Overland and Sovacool 2020)](https://www.zotero.org/google-docs/?broken=eKSIKV) --- we can
+also add, the realm of the arts and humanities.
+
+![1-s2.0-S2214629619309119-gr1_lrg](https://ars.els-cdn.com/content/image/1-s2.0-S2214629619309119-gr1_lrg.jpg)
+
+Funding for climate research in the natural and technical sciences versus the social sciences and humanities (USD). The gray areas represent ranges of estimates derived from short and long search strings. Src: Overland, Indra, and Benjamin K. Sovacool. '*The Misallocation of Climate Research Funding*'. Energy Research & Social Science 62 (April 2020): 101349.
+[https://doi.org/10.1016/j.erss.2019.101349](https://doi.org/10.1016j.erss.2019.101349).
 
 ## Travel
 
-Conferences, workshops, sandpits, seminars, events, meetings, fieldwork. Videoconferencing, teleworking. What should be done in person, and what should be done remotely? What digital tools facilitate sustainable ways
-of working, and what are their drawbacks or risks? This is a huge topic, and we won't try to cover everything here. However, here are a few suggested keywords and resources.
+Travel plans are often decided at the grant writing stage. As a rule of thumb, it makes sense to avoid all unnecessary travel, and to always prioritise less carbon intensive modes of transport where possible. In practice, things can get complicated. How do we define necessary and unnecessary travel? How might we transform the structures, conventions, and expectations of how we do research, to shift what constitutes "necessary" research in the first place? Conferences, workshops, sandpits, seminars, events, meetings, fieldwork, videoconferencing, teleworking: What should be done in person, and what should be done remotely? What digital tools facilitate sustainable ways of working, and what are their drawbacks or risks? Here are a few suggested keywords and resources, to help explore these questions further:
 
 *Flying*
 
@@ -181,35 +200,9 @@ Svensson, Patrik. “Some Thoughts on Making Academic Events with Particular Att
 
 ## Catering events
 
+Catering is another decision that is often decided at the grant writing stage.
+
 *Serve Plant-based Food*
 
 - Dunne, Daisy. 2020. ‘Interactive: What Is the Climate Impact of Eating Meat and Dairy?’ Carbon Brief, 2020.
-- Schiermeier, Quirin. 2019. ‘Eat Less Meat: UN Climate-Change Report Calls for Change to Human Diet’. Nature 572 (7769): 291–92. https://doi.org/10.1038/d41586-019-02409-7.
-
-## Choosing research questions
-
-It is important to adapt our research methods to make them less carbon intensive, and to improve our awareness of our environmental impacts.
-
-But can we also corral our research communities to more directly investigate environmental issues? For example, humans interact with and through Information Communication Technology (ICT) in unpredictable ways; "how ICT changes consumer behavior ... seems to be an underexplored, but essential aspect of the causal mechanisms that have to be understood for predicting the environmental impact of digitalization" [(Bieser and Hilty 2018)](https://www.zotero.org/google-docs/?broken=rtfS4X). A literature review carried out by Freitag et al. (2021) found no strong consensus about the future of ICT carbon footprints, including "disagreement" whether or not
-
-- energy efficiencies in ICT are continuing
-- energy efficiencies in ICT are reducing ICT's carbon footprint
-- ICT's carbon footprint will stabilize due to saturation in ICT
-- data traffic is independent of ICT emissions
-- ICT will enable emissions savings in other industries
-- renewable energy will decarbonize ICT."
-
-Another literature review on remote working only weakly confirmed the 'common sense' view that remote working saves energy; 26 of 39 studies suggest that it does save energy, however "differences in the methodology, scope and assumptions of the different studies make it difficult to estimate 'average' energy savings" [(Hook et al. 2020)](https://www.zotero.org/google-docs/?broken=MVslvg)**.**
-
-More broadly, climate change gives rise to a variety of political, ethical, and philosophical issues. Within the arts and humanities, these have long been the concern of the environmental humanities, and fields like the Digital Humanities have plenty to explore in terms of the cultural construction of technologies (everything from email to Bioenergy Carbon Capture and Storage), and the use and interpretation of data and models.
-
-However, climate research funding has heavily favoured the natural sciences (see figure). "Limiting global warming to 1.5°C will require
-rapid and deep alteration of attitudes, norms, incentives, and politics.
-
-Some of the key climate-change and energy transition puzzles are therefore in the realm of the social sciences" [(Overland and Sovacool 2020)](https://www.zotero.org/google-docs/?broken=eKSIKV) --- we can
-also add, the realm of the arts and humanities.
-
-![1-s2.0-S2214629619309119-gr1_lrg](https://ars.els-cdn.com/content/image/1-s2.0-S2214629619309119-gr1_lrg.jpg)
-
-Funding for climate research in the natural and technical sciences versus the social sciences and humanities (USD). The gray areas represent ranges of estimates derived from short and long search strings. Src: Overland, Indra, and Benjamin K. Sovacool. '*The Misallocation of Climate Research Funding*'. Energy Research & Social Science 62 (April 2020): 101349.
-[https://doi.org/10.1016/j.erss.2019.101349](https://doi.org/10.1016j.erss.2019.101349).
+- Schiermeier, Quirin. 2019. ‘Eat Less Meat: UN Climate-Change Report Calls for Change to Human Diet’. Nature 572 (7769): 291–92. https://doi.org/10.1038/d41586-019-02409-7. 
