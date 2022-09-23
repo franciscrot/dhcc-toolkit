@@ -9,23 +9,16 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
 
 
 {{< columns >}}
-## DH Benelux 2022 Workshop (Luxembourg)
+## News
 
-The DHCC hosted an afternoon workshop on 31 May 2022 for the [DH Benelux conference](https://2022.dhbenelux.org/).
-
-Themes: \
-(a) decarbonising our research and teaching,\
-(b) working at the intersection of humanities and digital technology to understand the role of data science in climate transition and climate justice,\
-(c) transforming DH (and knowledge institutions) within broader transformations of society.
-
-For more information, see the [workshop page](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/dh-benelux-workshop-2022.html).
+The DHCC hosted an afternoon workshop on 31 May 2022 for the [DH Benelux conference](https://2022.dhbenelux.org/). For more information, see the [workshop page](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/dh-benelux-workshop-2022.html).
 
 ![DHCC.jpg](DCHH_FINAL_HAZARD.png)
 
 <--->
 ## Toolkit
 
-The toolkit has multiple pathways, here is one suggestion to navigate through the chapters:
+The DHCC Toolkit contains resources for Digital Humanities researchers, and other researchers and professionals who use digital tools, for minimising the environmental impact of our work and contributing to a just climate transition. The toolkit has multiple pathways, but here is one suggestion to navigate through:
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
