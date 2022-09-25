@@ -50,16 +50,11 @@ NEED HIGHER QUALITY PIC
 *Compute needed to train state-of-the-art models rises
 exponentially since \~2012*
 
-Examples:
+Some key perspectives on maximal computing:
 
-- Tesla autopilot (fleet data is sent to large computing centre)
-- State-of-the-art NLP models like GPT-3, MT-NLG, Google Switch, Transformer
-
-Different viewpoints to maximal computing software:
-
-1. **Ethics**: are there inequalities or biases implied (e.g. gender, race, language, class, geography, disability)? you do not fully comprehend how large models learn/make inference, researchers with fewer computing resources can't reach state-of-the-art results.
-2. **Purpose**: is the software used to achieve a certain goal? Can the goal be valued as positive/negative in the context of greening DH? For example AI for Sustainability vs. Mass Surveillance Software
-3. **Execution**: how lean was the software building process / is the software? Are there ways to improve or to green it (i.e. reduce resource consumption)?
+1. **Ethics**: does the research and its potential application imply any biases, inequalities or other injustices (e.g. related to gender, race, language, class, geography, disability)? It is challenging to explain how large models make inferences. Although progress is being made on transparent and explainable AI, this does not always translate to accountability to the stakeholders most impacted. 
+2. **Purpose**: is the software used to achieve a useful goal? Can the goal be valued as positive/negative in the context of greening DH? For example, is the research addressing a real open problem related to sustainability and climate transition, or is it merely seeking to build capacity by exploring pseudo-problems or problems that have already been solved?
+3. **Execution**: how lean was the software building process / is the software? Are there ways to improve or to green it (i.e. reduce resource consumption)? Will efficiency gains be translated into carbon savings, or will they be cancelled out by rebound effects?
 
 
 The [Critical Algorithm Studies reading
